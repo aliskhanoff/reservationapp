@@ -1,0 +1,12 @@
+{
+  "applicationName": "BookApp",
+  "loginUrl":     "http://localhost:1337/api/user/AuthenticateTokenOnly",
+  "getRooms":     "http://localhost:1337/api/rooms",
+  "getUsers":     "http://localhost:1337/api/user/GetUsers",
+  "getUserData":  "http://localhost:1337/api/user/GetUserData",
+
+  "getRoomRecords":         "http://localhost:1337/api/RoomRecord",
+  "getRoomRecordsDate":     "http://localhost:1337/api/RoomRecord/date",
+  "postRoomRecord":         "http://localhost:1337/api/RoomRecord",
+  "deleteRoomRecord":       "http://localhost:1337/api/RoomRecord"
+}
